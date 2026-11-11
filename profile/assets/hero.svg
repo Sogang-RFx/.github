@@ -1,54 +1,71 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
   <title id="title">AutoRFx — 자동차 부품 RFQ 분석 · Citation · 사전원가 Agentic RAG</title>
-  <desc id="desc">수백 페이지 다국어 자동차 부품 RFQ 문서를 원본 불변 원칙으로 파싱하여 부서별 라우팅, 원문 Citation 추적, 사전원가 Go/No-Go 판단을 수행하는 Agentic RAG 플랫폼.</desc>
+  <desc id="desc">수백 페이지 다국어 자동차 부품 RFQ 문서를 원본 불변 원칙으로 파싱하여 8개 부서 라우팅, 정밀 Citation 검증, 부서별 RBAC 및 사전원가 Go/No-Go 판단을 수행하는 Agentic RAG 플랫폼.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#101c34"/>
-      <stop offset="1" stop-color="#102c3c"/>
+      <stop stop-color="#141816"/>
+      <stop offset="1" stop-color="#1b231f"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#5de4dc"/>
-      <stop offset="1" stop-color="#7aaaff"/>
+      <stop stop-color="#34d399"/>
+      <stop offset="1" stop-color="#d4a853"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#a5c4de" opacity=".12"/>
+      <circle cx="1" cy="1" r="1" fill="#9cb3a8" opacity=".12"/>
     </pattern>
   </defs>
   <rect width="1120" height="340" rx="20" fill="url(#bg)"/>
   <rect width="1120" height="340" rx="20" fill="url(#grid)"/>
-  <path d="M0 339H1120" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="0.75" y="0.75" width="1118.5" height="338.5" rx="19.25" fill="none" stroke="#2c3832" stroke-width="1.5"/>
+  <path d="M16 338.5H1104" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
-    <rect x="48" y="40" width="28" height="4" rx="2" fill="#5de4dc"/>
-    <text x="88" y="47" font-size="14" font-weight="600" letter-spacing="1.5" fill="#a6c8dd">Sogang Capstone 2026 · Team 3 × 겁쟁이사자들</text>
-    <text x="44" y="142" font-size="76" font-weight="750" letter-spacing="-2.5" fill="#f4f8ff">AutoRFx</text>
-    <text x="48" y="194" font-size="24" font-weight="600" fill="#e4effc">다국어 자동차 부품 RFQ를,</text>
-    <text x="48" y="229" font-size="24" font-weight="600" fill="#e4effc">원문 각주부터 사전원가 판단까지.</text>
-    <g font-size="13" font-weight="600" fill="#b7e7ed" text-anchor="middle">
-      <rect x="48" y="271" width="114" height="30" rx="15" fill="#173b4b" stroke="#285364"/>
+    <rect x="48" y="40" width="28" height="4" rx="2" fill="#34d399"/>
+    <text x="88" y="47" font-size="14" font-weight="600" letter-spacing="1.5" fill="#9eb5aa">Sogang Capstone 2026 · Team 3 × 겁쟁이사자들</text>
+    <text x="44" y="142" font-size="76" font-weight="750" letter-spacing="-2.5" fill="#f5f8f6">AutoRFx</text>
+    <text x="48" y="194" font-size="24" font-weight="600" fill="#e2ebe6">다국어 자동차 부품 RFQ를,</text>
+    <text x="48" y="229" font-size="24" font-weight="600" fill="#e2ebe6">원문 각주부터 사전원가 판단까지.</text>
+
+    <g font-size="13" font-weight="600" fill="#bbf7d0" text-anchor="middle">
+      <rect x="48" y="271" width="114" height="30" rx="15" fill="#1b2923" stroke="#2f473c"/>
       <text x="105" y="291">Agentic RAG</text>
-      <rect x="174" y="271" width="124" height="30" rx="15" fill="#173b4b" stroke="#285364"/>
+      <rect x="174" y="271" width="124" height="30" rx="15" fill="#1b2923" stroke="#2f473c"/>
       <text x="236" y="291">원본 Citation</text>
-      <rect x="310" y="271" width="136" height="30" rx="15" fill="#173b4b" stroke="#285364"/>
+      <rect x="310" y="271" width="136" height="30" rx="15" fill="#1b2923" stroke="#2f473c"/>
       <text x="378" y="291">8개 부서 라우팅</text>
-      <rect x="458" y="271" width="156" height="30" rx="15" fill="#173b4b" stroke="#285364"/>
-      <text x="536" y="291">사전원가 Go/No-Go</text>
+      <rect x="458" y="271" width="156" height="30" rx="15" fill="#262218" stroke="#524628"/>
+      <text x="536" y="291" fill="#fde68a">사전원가 Go/No-Go</text>
     </g>
-    <g fill="none" stroke="#4d7b96" stroke-width="1.5">
-      <rect x="668" y="66" width="168" height="74" rx="14" fill="#142b42"/>
-      <rect x="894" y="66" width="168" height="74" rx="14" fill="#142b42"/>
-      <rect x="772" y="206" width="186" height="74" rx="14" fill="#143647"/>
-      <path d="M836 103H894" stroke="#5de4dc" stroke-width="2"/>
-      <path d="m885 98 9 5-9 5" stroke="#5de4dc" stroke-width="2"/>
-      <path d="M752 140v28h113v38M978 140v28H865" stroke-dasharray="5 5"/>
-      <circle cx="865" cy="168" r="5" fill="#5de4dc" stroke="#5de4dc"/>
+
+    <g fill="none" stroke="#4f665b" stroke-width="1.5">
+      <path d="M861 96V109M751 109H971M751 109V122M971 109V122"/>
+      <path d="M747 117l4 5 4-5M967 117l4 5 4-5" stroke="#34d399" stroke-width="1.5"/>
+      <path d="M751 196V224M971 196V224"/>
+      <path d="M747 219l4 5 4-5M967 219l4 5 4-5" stroke="#34d399" stroke-width="1.5"/>
+      <path d="M852 159H870" stroke="#34d399" stroke-dasharray="3 3"/>
+      <path d="M852 261H870" stroke="#4f665b" stroke-dasharray="3 3"/>
     </g>
-    <g text-anchor="middle" font-size="14" font-weight="600">
-      <text x="752" y="99" fill="#dceafa">원본 불변 RFQ</text>
-      <text x="752" y="121" font-size="12" fill="#a6c8dd">Page · Clause 보존</text>
-      <text x="978" y="99" fill="#dceafa">정밀 Citation</text>
-      <text x="978" y="121" font-size="12" fill="#a6c8dd">원문 위치 역추적</text>
-      <text x="865" y="237" fill="#78e6df">LangGraph · RBAC</text>
-      <text x="865" y="259" font-size="12" fill="#a6c8dd">부서 라우팅 · 사전원가</text>
-    </g>
+
+    <rect x="650" y="42" width="422" height="54" rx="12" fill="#1b231f" stroke="#384a41" stroke-width="1.5"/>
+    <rect x="666" y="57" width="84" height="24" rx="6" fill="#23332b" stroke="#385447"/>
+    <text x="708" y="73" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="0.8" fill="#6ee7b7">IMMUTABLE</text>
+    <text x="766" y="66" font-size="14" font-weight="700" fill="#eef4f0">원본 불변 RFQ 계층 파싱</text>
+    <text x="766" y="84" font-size="11.5" font-weight="500" fill="#9eb5aa">영문·다국어 서식 보존 · Page / Clause 번호 고정</text>
+
+    <rect x="650" y="122" width="202" height="74" rx="12" fill="#1b231f" stroke="#384a41" stroke-width="1.5"/>
+    <text x="751" y="152" text-anchor="middle" font-size="14" font-weight="700" fill="#eef4f0">8개 부서 라우팅</text>
+    <text x="751" y="174" text-anchor="middle" font-size="11.5" font-weight="500" fill="#9eb5aa">RTM · 독소조항 자동 태깅</text>
+
+    <rect x="870" y="122" width="202" height="74" rx="12" fill="#172922" stroke="#34d399" stroke-width="1.5"/>
+    <text x="971" y="152" text-anchor="middle" font-size="14" font-weight="700" fill="#6ee7b7">Citation Enforcer ✓</text>
+    <text x="971" y="174" text-anchor="middle" font-size="11.5" font-weight="500" fill="#a7f3d0">원문 페이지·문단 역추적</text>
+
+    <rect x="650" y="224" width="202" height="74" rx="12" fill="#1b231f" stroke="#384a41" stroke-width="1.5"/>
+    <text x="751" y="254" text-anchor="middle" font-size="14" font-weight="700" fill="#eef4f0">부서별 RBAC 뷰</text>
+    <text x="751" y="276" text-anchor="middle" font-size="11.5" font-weight="500" fill="#9eb5aa">단가 마스킹 · RAG 챗봇</text>
+
+    <rect x="870" y="224" width="202" height="74" rx="12" fill="#232016" stroke="#d4a853" stroke-width="1.5"/>
+    <text x="971" y="254" text-anchor="middle" font-size="14" font-weight="700" fill="#fcd34d">사전원가 Go/No-Go</text>
+    <text x="971" y="276" text-anchor="middle" font-size="11.5" font-weight="500" fill="#e5d3a1">고정·변동비 입찰 타당성</text>
   </g>
 </svg>
