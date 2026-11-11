@@ -31,9 +31,9 @@
 <table>
   <tr>
     <td align="center" width="20%" valign="top">
-      <a href="https://github.com/Sogang-RFx"><img src="https://avatars.githubusercontent.com/u/9919?s=200" width="80" height="80" alt="윤홍민" /></a><br>
+      <a href="https://github.com/HongminYun"><img src="https://avatars.githubusercontent.com/HongminYun?s=200" width="80" height="80" alt="윤홍민" /></a><br>
       <b>윤홍민</b><br>
-      <sub><i>ID 확인 중</i></sub><br><br>
+      <a href="https://github.com/HongminYun"><sub>@HongminYun</sub></a><br><br>
       <sub>PM · 기획<br>멘토링 · ROI</sub>
     </td>
     <td align="center" width="20%" valign="top">
