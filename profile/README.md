@@ -33,32 +33,32 @@
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/Sogang-RFx"><img src="https://avatars.githubusercontent.com/u/9919?s=200" width="80" height="80" alt="윤홍민" /></a><br>
       <b>윤홍민</b><br>
-      <sub><i>@pending</i></sub><br><br>
-      <sub>PM<br>비즈니스 기획 · 멘토 소통</sub>
+      <sub><i>ID 확인 중</i></sub><br><br>
+      <sub>PM · 기획<br>멘토링 · ROI</sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/PJH720"><img src="https://avatars.githubusercontent.com/PJH720?s=200" width="80" height="80" alt="박재현" /></a><br>
       <b>박재현</b><br>
       <a href="https://github.com/PJH720"><sub>@PJH720</sub></a><br><br>
-      <sub>아키텍처<br>LangGraph · Citation</sub>
+      <sub>아키텍처<br>LangGraph · RAG</sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/chm2333-png"><img src="https://avatars.githubusercontent.com/chm2333-png?s=200" width="80" height="80" alt="조현모" /></a><br>
       <b>조현모</b><br>
       <a href="https://github.com/chm2333-png"><sub>@chm2333-png</sub></a><br><br>
-      <sub>AI 엔지니어링<br>VectorDB · 대시보드</sub>
+      <sub>VectorDB<br>대시보드 UI</sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/kangms0509"><img src="https://avatars.githubusercontent.com/kangms0509?s=200" width="80" height="80" alt="강명서" /></a><br>
       <b>강명서</b><br>
       <a href="https://github.com/kangms0509"><sub>@kangms0509</sub></a><br><br>
-      <sub>도메인 분석<br>RTM 룰셋 · 독소조항</sub>
+      <sub>도메인 룰셋<br>독소조항 분석</sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://github.com/bhbh0403"><img src="https://avatars.githubusercontent.com/bhbh0403?s=200" width="80" height="80" alt="손채민" /></a><br>
       <b>손채민</b><br>
       <a href="https://github.com/bhbh0403"><sub>@bhbh0403</sub></a><br><br>
-      <sub>도메인 분석 · 평가<br>용어사전 · 사전원가 · 채점</sub>
+      <sub>용어사전 · 원가<br>정량 평가</sub>
     </td>
   </tr>
 </table>
